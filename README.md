@@ -37,4 +37,5 @@ The new fields are:
   * The matching process has been improved for a faster processing time.
 
 Enjoy CFIE-FRSE, </br>
-CFIE Team
+CFIE Team </br>
+cfie.project@gmail.com
