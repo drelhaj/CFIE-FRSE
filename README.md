@@ -1,5 +1,7 @@
-# CFIE-FRSE
-Corporate Financial Information Environment (CFIE) -Final Report Structure Extractor (FRSE) is a desktop application to detect the structure of UK Annual Report and extract the reports' contents on a section level.  The tool works as a desktop version of our Wmatrix-Import tool https://cfie.lancaster.ac.uk:8443/).
+![alt tag](http://www.lancaster.ac.uk/staff/elhaj/images/cfie_desktop_logo1.png)
+
+# About
+Corporate Financial Information Environment (CFIE) -Final Report Structure Extractor (FRSE) is a desktop application to detect the structure of UK Annual Report and extract the reports' contents on a section level.  The tool works as a desktop version of our CFIE-FRSE Web tool https://cfie.lancaster.ac.uk:8443/).
 
 # How to run
 * [MS Windows]: To run the tool simply clone the repository to your machine, place your pdf annual reports in the **pdfs** directory and run (double click) the **runnable.bat** file.
