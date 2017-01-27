@@ -38,6 +38,6 @@ The new fields are:
   * The keyword lists (Forward Looking, Uncertainty, Positivity and Negativity) have been updated to eliminate duplicates and encoding errors.
   * The matching process has been improved for a faster processing time.
 
-Enjoy CFIE-FRSE, </br>
-CFIE Team </br>
+Enjoy CFIE-FRSE,
+CFIE Team
 cfie.project@gmail.com
