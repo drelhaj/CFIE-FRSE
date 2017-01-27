@@ -1,0 +1,8 @@
+title: CFIE-FRSE
+description: CFIE Final Report Structure Extractor (FRSE) is a free tool to detect structure and extract contents from UK Annual Reports (A desktop version of the Wmatrix-Import tool https://cfie.lancaster.ac.uk:8443/)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
