@@ -1,0 +1,191 @@
+oftotalrecognised 
+oftotalrecognized
+otherstatement
+IFRS<upper>
+internationalfinancialreporting
+incomeandexpense
+income&expense
+gainsandlosses
+gains&losses
+statementsofchangesin
+statementofchangesin
+statementofchangein
+statementsofchangein
+changesinshareholders
+changeinshareholders
+groupinformation
+corporateinformation
+contactinformation
+notes<equal>
+shareholdernotes
+shareholdersnotes
+explanatorynotes
+advisors<equal>
+advisers<equal>
+keyfinancialdate
+futuredate
+yearhistory
+sharepriceperformance
+definitions
+glossary
+undertakings
+principalsubsidary
+principalsubsidaries
+principalassociate
+responsibilityofdirector
+responsibilitiesofdirector
+managementresponsibilities
+managersresponsibilities
+responsibilitiesofmanagement
+responsibilitiesofmanagers
+responsibilityofmanagement
+responsibilityofmanagers
+additionalshareholder
+shareholderinformation
+historical
+contactdetails
+generalinformation
+financialcalendar
+principalaccounting
+principaloffices
+principalsubsidiaries
+groupsubsidiaries
+condensedconsolidated
+summaryconsolidated
+abridgedconsolidated
+selectedconsolidated
+primaryconsolidated
+condensedfinancial
+summaryfinancial
+abridgedfinancial
+primaryfinancial
+selectedfinancial
+primarystatement
+companyfinancial
+companystatements
+parentfinancial
+parentstatements
+Company Statements
+companyadvisors<equal>
+glossary<equal>
+definition<equal>
+definitions<equal>
+statements<equal>
+remuneration<equal>
+index
+proxy
+yearsummary
+yearrecord
+financialrecord
+financialhistory
+companyinformation
+corporateinformation
+shareholderinformation
+shareholderservices
+corporateadvisors
+operat
+shareholders funds
+financial statement 
+appendix 
+five year
+five-year
+5 year
+5-year
+statutory<equal>
+audit report
+shareholder information 
+cautionary
+corporate information 
+comprehensive income 
+profit and loss 
+income statement
+changes in equity 
+financial position
+reconciliation of 
+balance sheet 
+consolidated
+accounting policies 
+annual general 
+notice of 
+proxy 
+AGM<upper>
+glossary 
+calendar 
+gaap
+investor relations
+shareholding 
+dividends
+financial diary
+principal subsidiaries
+principal statement
+year summary
+directory
+supplementary
+consolidated statement
+consolidated income statement
+group income statement
+consolidated statement of comprehensive income
+group statement of comprehensive income
+group statement of profit or and loss
+group profit or and loss account
+consolidated statement of profit or and loss and other comprehensive income
+group statement
+statement of loss
+statement of profit
+group statement of total comprehensive income
+statement of comprehensive loss
+income statement 
+statement of comprehensive income 
+statements of comprehensive income 
+statement of comprehensive loss
+statements of comprehensive loss
+statement of profit or loss
+statement of profit and loss
+statement of profit and loss
+statements of profit or loss
+statements of profit and loss
+profit or loss account
+profit and loss account
+statement of financial position
+statements of financial position
+balance sheet
+consolidated cash flow 
+statement of cash
+statements of cash
+cash flow
+group cash flow
+cash flow statement
+changes in equity
+change inequity
+independent auditors report
+independent auditors UK report
+report of the auditor
+reports of the auditor
+report of the independent  auditor
+reports of the independent  auditor
+auditor report
+auditors report
+notes to the
+notes relating
+financial statements
+five year
+five-year
+year summary
+notice of meeting
+directors responsibilit
+directors' responsibilities 
+accounting policies
+accounts
+consolidated financial 
+statement of the auditor
+statement by the auditor
+financials
+financial results
+group financial
+glossary
+shareholder information
+statement of changes in
+statements of changes in
+reserves and Resources
+operating statistics
+total recognised gains

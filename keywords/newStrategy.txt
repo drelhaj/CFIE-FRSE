@@ -1,0 +1,709 @@
+(L)international
+(L)aim
+(L)national
+(LU)swot 
+competitive 
+force#
+advantage# 
+disadvantage# 
+competenc# 
+leader# 
+leading 
+scorecard 
+research  
+develop# 
+scale 
+scope
+(LU)KPI
+(LU)R and D
+(LU)R&D
+(LU)R & D
+(U)HR
+(U)IT
+(U)IP
+(U)IPR
+acquisition# 
+acquire
+activit#
+adapt#
+shift#
+administrat# costs
+administrat# distance
+aims
+aiming
+alliance#
+ambition#
+ambitious
+analysis
+purchased input cost#
+analytic# tool#
+analytic# framework
+sentiment
+anti-business
+anti business
+antibusiness
+anti-trust 
+anti trust
+antitrust
+anti-compet#
+anti compet#
+anticompet#
+arm’s-length contract#
+arm’s length contract#
+arms-length contract#
+arms length contract#
+asset# purchase#
+purchase# of asset#
+purchasing asset#
+assignment of asset#
+asset assignment
+assign# asset#
+attack#
+attain#
+attitude survey#
+survey of attitude#
+balanced scorecard
+bargaining power
+barrier# to entry
+barrier# to exit 
+barrier# to imitation 
+imitation barrier#
+barrier# to mobility
+imitat#
+mobility barrier#
+beachhead#
+behaviour#
+behavior#
+benchmark#
+best practice#
+blocking position#
+blueprint
+bottom-up
+bottom up
+boundar#
+brand#
+bundling
+bundle
+bundled
+business identity#
+business linkage#
+business model#
+business process#
+business-process#
+business scope
+business system#
+business unit#
+cherry-pick#
+cherry pick#
+buyer cost
+buyer# need#
+need# of buyer#
+buyer# perception#
+perception# of buyer#
+buyer performance
+buyer power
+power of buyers
+buyer purchase criteria
+buyer segment#
+buyer type#
+type of buyer
+buyer value
+value chain
+chain of value
+buyer-supplier
+buyer/supplier
+capabilit#
+capacit#
+capital cost#
+carry out
+carried out
+carrying out
+causal ambiguity
+center# of excellence
+centre# of excellence
+centralised-redirection
+centralized-redirection
+centralised redirection
+centralized redirection
+centralised-direction
+centralized-direction
+centralised direction
+centralized direction
+chain-link
+chain link
+challeng#
+chang#
+cluster#
+co-align#
+coalign#
+coalition#
+cognitive factor#
+cognitive map#
+coherence
+coherent
+cohesion
+cohesive
+cohesiveness
+commodity product#
+comparative advantage# 
+comparative disadvantag#
+compete
+competing
+ability
+abilities
+competition
+competitive advantage# 
+competitive disadvantage#
+competitive force#
+competitor#
+complement#
+complexity
+complex
+concentration
+condition of duplication
+configur#
+conflict#
+conglomerate
+consolidate
+consolidation
+consolidating
+containment
+continuity
+control of timing
+conventional-wisdom
+conventional wisdom
+cooperation
+co-operation
+co operation
+cooperate 
+co-operate
+co operate
+cooperating
+co-operating
+co operating
+coordinat#
+co-ordinat#
+co ordinat#
+core competenc# 
+corporate portfolio
+restructur#
+cost advantage# 
+cost disadvantage#
+trade-off
+trade off
+cost driver#
+cost improvement#
+cost leader#
+cost leading
+cost# of sharing
+create#
+creati#
+cross subsidi#
+cross-subsidi#
+cross-licens#
+cross licens#
+cultural 
+culture
+customer#
+decentralis#
+decentraliz#
+decision#
+defensive
+demand
+demand-side
+demographic#
+deregulation
+design
+deterren#
+differentiat#
+diffusion
+disinvest#
+dispos#
+disrupt#
+distribution channel#
+distribution of assets
+divers#
+divest#
+division of labor
+division of labour
+dominant
+dominate
+downstream channel#
+driver
+drivers
+dynamic
+economic#
+economies of scale
+economy of scale
+economies of scope
+economy of scope
+efficien#
+emergent
+emerging
+emotional climate
+emotional intelligence
+employee#
+employment cost#
+enabl#
+engineering overreach
+enhanc#
+enter
+entered 
+entering
+entry
+entrant
+entrepreneur#
+entry barrier#
+exit barrier# 
+immobility barrier#
+envelopment manoeuvre
+environmental factor#
+evolution#
+evolv#
+exclusive
+exclusivity
+exclusiveness
+execut#
+exit#
+exogenous
+experience curve
+experience goods
+exploit#
+external
+internal force#
+financial interrelat#
+financial management system#
+firm specific
+firm-specific
+firm-level
+firm level
+first-mover
+first mover
+fit
+flexibility
+focus#
+follower#
+fragment#
+franchising
+franchiser
+franchisee 
+franchisor
+functional
+game-chang#
+game chang#
+geographic
+geographical
+global# 
+local#
+goal#
+growth
+hands-off management
+hands off management
+hands-on management
+hands on management
+heterogeneity
+heterogeneous
+hierarch#
+holistic
+horizontal organization
+horizontal organisation
+horizontal structure
+horizontal system#
+hostile takeover#
+human capital
+imitability
+implement#
+incubating
+incubator
+incubate
+incumbent
+indivisibilit#
+industrial buyer#
+industries
+industry
+attractiveness
+attractive
+inertia
+uniqueness
+unique
+information system#
+information technolog#
+infrastructure
+innovation#
+innovative
+innovate#
+invent
+innovator#
+input cost#
+institutional factor#
+intangibl#
+integrat#
+intellectual property
+interfirm network#
+inter-firm network#
+internal environment#
+external environment#
+internal organisation
+internal organization
+internalis#
+internaliz#
+collaborat#
+internationalisation
+internationalization
+commercialis#
+commercializ#
+interrelate#
+interrelationship#
+investment in
+investing 
+invested
+invest
+investments in
+invisible asset#
+isolating mechanism
+job satisfaction
+joint ventur#
+judgement
+performance indicator#
+success factor#
+know-how
+knowledge
+lead time#
+lead-time#
+leadtime#
+lean production
+leapfrog#
+leap-frog#
+learning
+learning-by-doing
+legal constraints
+leveraging
+leveraged
+licensing
+life cycle
+life-cycle
+location
+locational difference#
+long-term
+long term
+longer-term
+longer term
+loss of coherence
+low-cost
+low cost
+lower-cost
+lower cost
+macroscenario#
+macro-scenario#
+make or buy
+make-or-buy
+management control
+management system#
+management team#
+managerial talent
+managers
+mapping
+marketing costs
+marketing spend
+market
+markets
+customis#
+customiz#
+matrix organisatio#
+matrix organizatio#
+measure# of profit
+profit measure#
+merger# and acquisition#
+merger# & acquisition#
+M&A
+M & A
+milestone#
+plant size
+mission
+monopolies
+monopoly
+mov# to action
+multibusiness#
+multi-business#
+multifunctional units
+multi-functional units
+multiple
+network effect#
+network externalit#
+network of
+our network#
+new entrant#
+next big thing
+next big-thing
+norms
+objectiv#
+obscuring profit
+obstacl#
+operating organisation#
+operating organization#
+operat# effectiveness
+operat# relatedness
+operations management
+opportunism
+opportunit#
+organisation# redesign
+organisational analysis
+organisational decisions
+organisational design
+organisational ecology
+organisational identity
+organisational intelligence
+organisational rigidity
+organisational routinisation
+organisational slack
+organisational structure
+organization# redesign
+organizational analysis
+organizational decisions
+organizational design
+organizational ecology
+organizational identity
+organizational intelligence
+organizational rigidity
+organizational routinization
+organizational slack
+organizational structure
+outsourc#
+out sourc#
+out-sourc#
+centralis#
+centraliz#
+patent#
+path dependen#
+penetration
+penetrate
+performance analysis
+performance control
+performance criteria
+performance diagnosis
+performance incentive#
+performance measure#
+performance monitoring
+performance target#
+personnel rotation
+pioneering
+pioneered
+pioneer
+plann#
+plans
+plan
+political distance
+political factor#
+portfolio management
+position
+positive feedback
+predatory
+preempt#
+pre-empt#
+price cut#
+price discrimination
+price movement#
+price premium
+price sensitive#
+elastic
+inelastic
+pricing
+principles
+privileged information
+process#
+procurement
+product-line 
+product#
+impact on profit#
+profit maximis#
+maximise profit#
+profit maximiz#
+maximize profit#
+profit pool#
+profitab#
+program# of action
+promotion from within
+property rights
+proposal#
+proprietary
+protection of turf
+proximate objective#
+psychographic#
+psychological contract
+psychological factor#
+equilibrium
+purchase criteri#
+purchase occasion
+purchase power
+purchasing power
+pursue
+qualification cost#
+quality
+quantity
+range of business#
+real option#
+recession#
+downturn
+crisis
+headwind#
+reciprocal dealing
+reconfigur#
+reengineer#
+re-engineer#
+refutation
+regime of appropriability
+region#
+relational contract#
+relationship
+relative cost
+reliance on
+rely on
+repetitive
+reposition#
+reputation#
+research and development
+research & development
+deployment#
+deploy
+utilisation
+utilise
+utilising
+utilised
+utilization
+utilize
+utilizing
+utilized
+resource#
+resource-
+source# of profit
+profit source#
+response
+responsiveness
+respond
+responding
+attack
+retaliation
+retaliate
+revolutionary
+revolutionise
+revolutionize
+risk#
+uncertain#
+failure
+fail#
+rival#
+road map
+road-map
+roadmap
+routinis#
+routiniz#
+rules for riches
+salience effect#
+satisfactory
+satisfic#
+scalable
+scale economies
+scale economy
+scenario analysis
+scenarios
+schumpeterian shock#
+scope economy
+scope economies
+secto#
+segment#
+self-organisation
+self organisation
+self-organise
+self organise
+self-organization
+self organization
+self-organize
+self organize
+seller#
+sense of purpose
+separation
+series of actions
+service
+shape
+shaping
+shaped
+shared
+sharing
+shareholder 
+stakeholder#
+shifting
+signal#
+transfer#
+skill#
+social equity
+social factor#
+social herding
+social legitimacy
+social policy
+social responsibility
+socially responsible
+social system#
+sourcing choice#
+specialis#
+specializ#
+spillover
+standalone influence
+standardis#
+standardiz#
+standards
+static
+stealth marketing
+strateg#
+dissonance
+inflection point#
+intent
+intend
+corner solution
+stream# of profit#
+profit stream#
+strength#
+structural analysis
+structural break#
+stuck-in-the-middle
+stuck in the middle
+substitut#
+subtechnolog#
+sub-technolog
+sub technolog
+success#
+succeed#
+win
+wins
+winner
+winning
+superior
+superiority
+supplier
+supply
+supply-side
+surviv#
+sustain#
+switching back
+switched back
+switch-back
+switch back
+switching cost#
+switch cost#
+cost# of switching
+synerg#
+tactic#
+tail-risk#
+takeover#
+target#
+task#
+team production
+team-based
+team based
+technical#
+technolog#
+threat#
+trust#
+value#
+vision
+weakness#
+weaken#
