@@ -2,7 +2,7 @@ title: CFIE-FRSE
 description: This is Version 2.0 of the CFIE-FRSE)
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
