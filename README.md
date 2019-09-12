@@ -5,6 +5,9 @@ This is Version 2.0 of the CFIE-FRSE tool: Corporate Financial Information Envir
 For Version 1.0 please check the release section https://github.com/drelhaj/CFIE-FRSE/releases
 
 Please note we do not provide a web version of the tool. This is the only official and stable version of CFIE-FRSE.
+# System Requirement
+Your machine must have JAVA installed in order to be able to run the tool. You might also need to set the JAVA_HOME PATH, especially if you get the following Error when running the tool: "'Java' is not recognized as an internal or external command". For how to set up JAVA_HOME: https://stackoverflow.com/questions/15796855/java-is-not-recognized-as-an-internal-or-external-command
+
 # How to run
 * [MS Windows]: To run the tool simply clone the repository to your machine, place your pdf annual reports in the **pdfs** directory and run (double click) the **runnable.bat** file.
 * [Linux Ubuntu]:  To run the tool simply clone the repository to your machine, place your pdf annual reports in the **pdfs** directory and run the **runnable.sh**. Simply cd to the directory where the **runnable.sh** is located and type the following command **./runnable.sh**
