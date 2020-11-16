@@ -9,12 +9,12 @@ Please note we do not provide a web version of the tool. This is the only offici
 Your machine must have JAVA installed in order to be able to run the tool. You might also need to set the JAVA_HOME PATH, especially if you get the following Error when running the tool: "'Java' is not recognized as an internal or external command". For how to set up JAVA_HOME: https://stackoverflow.com/questions/15796855/java-is-not-recognized-as-an-internal-or-external-command
 
 # How to run
-* NOTE: Please note that the code works with Java 8 (might also work with Java 7).
- * If you try to run the tool using Java version that is later than 8, you'll receive an error that says "java.lang.SecurityException: Prohibited package name: java.sql"
- * This is due to a package that we import using a library with the name java.sql which is reserved by Java'
- * To fix this you have to run the code using Java 8.
- * See here suggestions on how you can continue keep your current Java version and re-install (run) Java 8:
- * https://stackoverflow.com/questions/46513639/how-to-downgrade-java-from-9-to-8-on-a-macos-eclipse-is-not-running-with-java-9
+* NOTE: Please note that the code works with Java 8 (might also work with Java 7).  
+  * If you try to run the tool using Java version that is later than 8, you'll receive an error that says "java.lang.SecurityException: Prohibited package name: java.sql"
+  * This is due to a package that we import using a library with the name java.sql which is reserved by Java'
+  * To fix this you have to run the code using Java 8.
+  * See here suggestions on how you can continue keep your current Java version and re-install (run) Java 8:
+  * https://stackoverflow.com/questions/46513639/how-to-downgrade-java-from-9-to-8-on-a-macos-eclipse-is-not-running-with-java-9
 
 * [MS Windows]: To run the tool simply clone the repository to your machine, place your pdf annual reports in the **pdfs** directory and run (double click) the **runnable.bat** file.
 * [Linux Ubuntu]:  To run the tool simply clone the repository to your machine, place your pdf annual reports in the **pdfs** directory and run the **runnable.sh**. Simply cd to the directory where the **runnable.sh** is located and type the following command **./runnable.sh**
